@@ -8,6 +8,11 @@ export default {
         Raleway: ["Raleway", "sans-serif"],
         Kdam_Thmor: ["Kdam Thmor Pro", "sans-serif"],
       }, //end of fontFamily
+      colors: {
+        primary: "#100f0f",
+        secondary: "#FB1507",
+        // ...
+      },
     },
   },
   plugins: [],

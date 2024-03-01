@@ -6,8 +6,8 @@ import { MdOutlineSearch } from "react-icons/md";
 const Navbar = () => {
   return (
     <>
-      <nav className="w-full sticky top-0  md:h-14  ">
-        <div className="container m-auto bg-[#000001]">
+      <nav className="w-full sticky top-0  md:h-14  z-[999]  ">
+        <div className="container m-auto bg-primary lg:border-b-2  border-solid  border-secondary ">
           <div className=" w-full px-4 py-2 flex justify-between items-center">
             <Link to="/">
               <div className="flex justify-center items-center gap-1">
