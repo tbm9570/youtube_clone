@@ -60,9 +60,9 @@ const Sidebar = ({ cruntCategory, setCruntCategory }) => {
                 onClick={() => setCruntCategory(elem.name)}
               >
                 <span
-                  className={` text-secondary ${
+                  className={` text-secondary group-hover:text-black ${
                     elem.name == cruntCategory && "text-primary"
-                  }  group-hover:text-black  `}
+                  }    `}
                 >
                   {elem.icon}
                 </span>
