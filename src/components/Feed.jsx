@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Sidebar from "./Sidebar";
-import { featchDate } from "../utils/fatchFromAPI";
 import FeedVideos from "./FeedVideos";
+import { featchDate } from "../utils/fatchFromAPI";
 
 import data from "../utils/data.json";
 
@@ -13,7 +13,6 @@ const Feed = () => {
     // featchDate(`search?part=snippet&q=${cruntCategory}`).then((res) => {
     //   setVideos(res.data.items);
     // });
-    console.log("🚀 ~ useEffect ~ videos:", videos);
   }, [cruntCategory]);
 
   return (
