@@ -1,0 +1,96 @@
+{
+  "kind": "youtube#videoListResponse",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "id": "Ahwoks_dawU",
+      "snippet": {
+        "publishedAt": "2024-02-16T11:16:10Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Full Stack AI SaaS Platform with Next js 14, TypeScript, Stripe",
+        "description": "Build a REAL Software-as-a-Service app with AI features and a payments and credits system that you might even turn into a side income or business using Next.js 14, Cloudinary AI, Clerk, and Stripe.\n\n✨Get 3 Bonus Credits for your Free Cloudinary Account: https://cld.media/jsmastery\n📙 Next Cloudinary Documentation: https://next.cloudinary.dev/\n\n⭐ Clerk: https://dub.sh/j4oY3Io\n\n🌟 Become a top 1% Next.js 14 developer in only one course: https://jsmastery.pro/next14\n🚀 Skyrocket your career in 4 months: https://jsmastery.pro/masterclass\n\n📚Materials/References:\nGitHub Repository (give it a star ⭐) https://github.com/adrianhajdin/ai_saas_app\nREADME (assets & code): https://github.com/adrianhajdin/ai_saas_app/blob/main/README.md\n\n💻 Join our Discord Community - https://discord.gg/n6EdbFJ\n🐦 Follow us on Twitter: https://twitter.com/jsmasterypro\n🖼️ Follow us on Instagram: https://instagram.com/javascriptmastery\n\n💼 Business Inquiries: contact@jsmastery.pro\n\nTime Stamps 👇\n00:00:00 — Intro\n00:03:49 — Project Setup\n00:12:12 — Next.js Routing & folder structure\n00:23:21 — Clerk Authentication\n00:37:15 — Layout Sidebar & Mobile Navigation\n01:02:06 — Database & Models Setup\n01:18:54 — Server Actions & Webhook\n01:47:50 — Add Image Form (React Hook Form + Zod Validation)\n02:26:05 — Cloudinary Media Uploader\n02:49:00 — Transformed Image Components\n03:01:10 — Image Server Action\n03:33:25 — Homepage + Search & Pagination\n03:52:10 — Image details, Update & Delete Image\n04:12:21 — Checkout & Pay with Stripe\n04:30:10 — Final Deployment & Production fixes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ahwoks_dawU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ahwoks_dawU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ahwoks_dawU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ahwoks_dawU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ahwoks_dawU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "tags": [
+          "javascript",
+          "javascript mastery",
+          "js mastery",
+          "master javascript",
+          "next js",
+          "next js tutorial",
+          "next js project",
+          "full stack",
+          "nextjs 14",
+          "full stack web development course",
+          "next js 14",
+          "next js 14 api",
+          "next js 14 projects",
+          "next js 14 auth",
+          "full stack course",
+          "next js 14 crash course",
+          "next js 14 tutorial",
+          "next js 14 course",
+          "next js 14 app",
+          "javascript project",
+          "next js tutorial for beginners",
+          "full stack web development project",
+          "full stack web development",
+          "full stack developer course"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Build and Deploy a Full Stack AI SaaS Platform with Next js 14, TypeScript, Stripe",
+          "description": "Build a REAL Software-as-a-Service app with AI features and a payments and credits system that you might even turn into a side income or business using Next.js 14, Cloudinary AI, Clerk, and Stripe.\n\n✨Get 3 Bonus Credits for your Free Cloudinary Account: https://cld.media/jsmastery\n📙 Next Cloudinary Documentation: https://next.cloudinary.dev/\n\n⭐ Clerk: https://dub.sh/j4oY3Io\n\n🌟 Become a top 1% Next.js 14 developer in only one course: https://jsmastery.pro/next14\n🚀 Skyrocket your career in 4 months: https://jsmastery.pro/masterclass\n\n📚Materials/References:\nGitHub Repository (give it a star ⭐) https://github.com/adrianhajdin/ai_saas_app\nREADME (assets & code): https://github.com/adrianhajdin/ai_saas_app/blob/main/README.md\n\n💻 Join our Discord Community - https://discord.gg/n6EdbFJ\n🐦 Follow us on Twitter: https://twitter.com/jsmasterypro\n🖼️ Follow us on Instagram: https://instagram.com/javascriptmastery\n\n💼 Business Inquiries: contact@jsmastery.pro\n\nTime Stamps 👇\n00:00:00 — Intro\n00:03:49 — Project Setup\n00:12:12 — Next.js Routing & folder structure\n00:23:21 — Clerk Authentication\n00:37:15 — Layout Sidebar & Mobile Navigation\n01:02:06 — Database & Models Setup\n01:18:54 — Server Actions & Webhook\n01:47:50 — Add Image Form (React Hook Form + Zod Validation)\n02:26:05 — Cloudinary Media Uploader\n02:49:00 — Transformed Image Components\n03:01:10 — Image Server Action\n03:33:25 — Homepage + Search & Pagination\n03:52:10 — Image details, Update & Delete Image\n04:12:21 — Checkout & Pay with Stripe\n04:30:10 — Final Deployment & Production fixes"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT4H42M55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "136760",
+        "likeCount": "5593",
+        "favoriteCount": "0",
+        "commentCount": "559"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

@@ -3,10 +3,9 @@ import VideoCard from "./VideoCard";
 import ChannelCard from "./ChannelCard";
 
 const FeedVideos = ({ videos }) => {
-  console.log("🚀 ~ FeedVideos ~ videos:", videos);
   return (
     <>
-      {videos ? (
+      {!videos ? (
         <div className=" w-full h-[calc(100vh-7.5rem)] flex justify-center items-center ">
           <p className="text-white">Loading...</p>
         </div>
@@ -27,3 +26,15 @@ const FeedVideos = ({ videos }) => {
 };
 
 export default FeedVideos;
+
+
+
+
+
+
+
+
+
+
+
+

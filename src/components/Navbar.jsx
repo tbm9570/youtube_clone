@@ -13,7 +13,7 @@ const Navbar = () => {
               <div className="flex justify-center items-center gap-1">
                 <img src={logo} alt="main_logo" className="w-8" />
                 <h1 className="hidden md:block text-white text-2xl font-black font-Kdam_Thmor">
-                  Royal Tube
+                  Vi Tube
                 </h1>
               </div>
             </Link>

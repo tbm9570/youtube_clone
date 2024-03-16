@@ -61,7 +61,7 @@ const Sidebar = ({ cruntCategory, setCruntCategory }) => {
               >
                 <span
                   className={` text-secondary group-hover:text-black ${
-                    elem.name == cruntCategory && "text-primary"
+                    elem.name == cruntCategory && "text-black"
                   }    `}
                 >
                   {elem.icon}

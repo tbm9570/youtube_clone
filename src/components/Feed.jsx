@@ -7,12 +7,12 @@ import data from "../utils/data.json";
 
 const Feed = () => {
   const [cruntCategory, setCruntCategory] = useState("New");
-  const [videos, setVideos] = useState(data);
+  const [videos, setVideos] = useState([]);
 
   useEffect(() => {
-    // featchDate(`search?part=snippet&q=${cruntCategory}`).then((res) => {
-    //   setVideos(res.data.items);
-    // });
+    featchDate(`search?part=snippet&q=${cruntCategory}`).then((res) => {
+      setVideos(res.data.items);
+    });
   }, [cruntCategory]);
 
   return (

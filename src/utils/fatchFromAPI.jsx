@@ -16,7 +16,6 @@ const options = {
 export const featchDate = async (url) => {
   try {
     const result = await axios.get(`${baseURL}/${url}`, options);
-    console.log("🚀 ~ featchDate ~ result:", result);
     return result;
   } catch (error) {
     console.log(error);
